@@ -1,2 +1,2 @@
 # Tasky-project
-Task project is a task management app
+Tasky project is a task management app
